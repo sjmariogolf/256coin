@@ -31,7 +31,8 @@ Exchanges
 Here's keeping the fingers crossed
 
 ###Wallets
-####Windows <Win7_64_32bcompat.zip>
+####Windows 
+<Win7_64_32bcompat.zip>
 
 - 21168	Win7_64_32bcompat/release/256coin-qt.exe
 - 33660	Win7_64_32bcompat/release
@@ -39,7 +40,8 @@ Here's keeping the fingers crossed
 
 Follow this scent trail, and do not stray Much thanks for laying it down. (https://bitcointalk.org/index.php?topic=149479.0)
 
-####Linux <Linux_32b.gz>
+####Linux 
+<Linux_32b.gz>
 
 - -rwxr-xr-x steven/steven 6397064 2015-03-23 13:40 256coin-qt
 - -rwxr-xr-x steven/steven 3032840 2015-03-23 13:40 256coind
