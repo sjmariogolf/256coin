@@ -7,7 +7,7 @@ sha (!) ASIC resist.
 ![256coin] (http://i60.tinypic.com/2vb0sd2.jpg)
 
 ## life is too short for BS (enjoy yourself)
-![256coin] (http://i60.tinypic.com/2vb0sd2.jpg)
+![256coin] (http://i60.tinypic.com/wan53c.jpg)
 
 
 256 total coins. Coin rewards .00256 halving each 10,256 blocks.
