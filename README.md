@@ -6,7 +6,7 @@ sha (!) ASIC resist.
 ## A SHA 256 Coin
 ![256coin] (http://i60.tinypic.com/2vb0sd2.jpg)
 
-## life is too short for BS (enjoy yourself)
+## life is too short for BS (enjoy yourself) @ least 256 times!
 ![256coin] (http://i60.tinypic.com/wan53c.jpg)
 
 
