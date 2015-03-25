@@ -54,4 +54,4 @@ Follow this scent trail, and do not stray Much thanks for laying it down. (https
 -  addnode=67.187.1.175
 
 ###The real skinny pete aka sjmariogolf
-(http://i59.tinypic.com/i3x5vl.jpg)
+![sjmariogolf/skinnypete] (http://i59.tinypic.com/i3x5vl.jpg)
