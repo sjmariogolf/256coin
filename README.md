@@ -43,12 +43,15 @@ Follow this scent trail, and do not stray Much thanks for laying it down. (https
 - -rwxr-xr-x steven/steven 3032840 2015-03-23 13:40 256coind
 
 ###Coin Conf
-  gen=0
-  server=1
-  rpcuser=256rpc
-  rpcpassword=256c0in-h@s-a-futur3-1n-y0u
-  rpcallowip=127.0.0.1
-  port=25255
-  rpcport=25256
-  addnode=67.187.1.175
 
+- gen=0
+-  server=1
+-  rpcuser=256rpc
+-  rpcpassword=256c0in-h@s-a-futur3-1n-y0u
+-  rpcallowip=127.0.0.1
+-  port=25255
+-  rpcport=25256
+-  addnode=67.187.1.175
+
+###The real skinny pete aka sjmariogolf
+(http://i59.tinypic.com/i3x5vl.jpg)
