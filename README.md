@@ -11,12 +11,11 @@ Not ASIC resist. So knock yourselves out (!)
 ## life is too short for BS (enjoy yourself) @ least 256 times!
 ![256coin] (http://i60.tinypic.com/wan53c.jpg)
 
-
 256 total coins. Coin rewards .00256 halving each 10,256 blocks.
 
-Like it, mine it! Hate it, don't.
-It's your electricity. Use it wisely.
-256 coins, .00256 nSubsidy.
+###Like it, mine it! Hate it, don't.
+#It's your electricity. Use it wisely.
+###256 coins, .00256 nSubsidy.
 
 ###Algo
 Simplified sha256
