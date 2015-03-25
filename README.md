@@ -2,6 +2,8 @@
 # 256coin
 The official download site for the SHA 256coin
 sha (!) ASIC resist.
+NOT!
+Not ASIC resist. So knock yourselves out (!)
 
 ## A SHA 256 Coin
 ![256coin] (http://i60.tinypic.com/2vb0sd2.jpg)
